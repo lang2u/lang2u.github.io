@@ -498,13 +498,13 @@ pre > code {
 }
 
 .header__logo .header__logo--container {
-    width: 58px
+    width: 100px
 }
 
 .header__logo .header__logo--container .logo {
-    background: url('/assets/img/logo.png') no-repeat -60px -51px;
-    width: 708px;
-    height: 200px;
+    background: url('/assets/img/logo.png');
+    width: 100px;
+    height: 50px;
 }
 
 .header__inner {
