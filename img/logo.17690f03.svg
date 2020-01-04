@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1042 625" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(4.16667,0,0,4.16667,0,0)">
+        <g transform="matrix(2.66167,0,0,1.89554,-7.79633,21.2867)">
+            <path d="M90,15.665C90,11.435 86.565,8 82.335,8L12,8C11.652,8.378 11.974,8.192 12,8L12,40.335C12,44.565 15.435,48 19.665,48L90,48C90.23,48 90,48.23 90,48L90,15.665Z" style="fill:none;stroke:rgb(87,84,147);stroke-width:0.43px;"/>
+        </g>
+        <g transform="matrix(2.4398,0,0,2.3405,3.89989,8.64439)">
+            <path d="M90,15.665C90,11.435 86.565,8 82.335,8L12,8C11.652,8.378 11.974,8.192 12,8L12,40.335C12,44.565 15.435,48 19.665,48L90,48C90.23,48 90,48.23 90,48L90,15.665Z" style="fill:none;stroke:rgb(87,84,147);stroke-width:0.63px;"/>
+        </g>
+        <g transform="matrix(1,0,0,1,23.7395,21.625)">
+            <text x="50.077px" y="66.517px" style="font-family:'FacebookLetterFaces', 'Facebook Letter Faces';font-size:36px;fill:rgb(77,72,160);">lang2u</text>
+        </g>
+    </g>
+</svg>
